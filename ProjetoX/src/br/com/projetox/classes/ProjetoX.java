@@ -5,7 +5,8 @@ import java.util.Scanner;
 
 /**
  * 
- * @author Daniel Programa de demonstração de conhecimentos
+ * @author Daniel 
+ * Programa de demonstração de conhecimentos
  *
  */
 public class ProjetoX {
